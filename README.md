@@ -54,6 +54,6 @@ Join our community of developers creating universal apps.
    ![5ece1580-ea1a-4f64-b3ac-2cf3233a0933](https://github.com/user-attachments/assets/77a53d21-7a10-4f48-b41c-aa93df77ea78)
    ![ac145e99-145c-47ed-ae5f-ad94b5f39783](https://github.com/user-attachments/assets/9700ce5f-5d4f-4d42-9407-9ad700fed39f)
 
-   ## video: https://www.kapwing.com/videos/67de5e1a2f738035e66f84ef
+   ## video: 
    
 
